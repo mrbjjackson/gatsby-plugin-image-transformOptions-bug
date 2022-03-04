@@ -4,12 +4,6 @@ module.exports = {
       siteUrl: `https://www.yourdomain.tld`,
    },
    plugins: [
-      //   {
-      //   resolve: 'gatsby-source-wordpress',
-      //   options: {
-      //     "url": ""
-      //   }
-      // }
       "gatsby-plugin-sass",
       "gatsby-plugin-image",
       "gatsby-plugin-react-helmet",
